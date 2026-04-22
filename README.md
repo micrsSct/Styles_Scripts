@@ -30,7 +30,8 @@ Joomla no deja agregar archivos css y js en multimedia ya que no los soporta, lo
 1. Sube o edita el archivo `.css` o `.js` en este repositorio
 2. Copia la URL de **jsDelivr** del archivo:
    ```
-   https://cdn.jsdelivr.net/gh/tuusuario/tu-repo/css/archivo.css
+   https://cdn.jsdelivr.net/gh/micrsSCT/Estilos_y_Scripts/css/archivo.css
+   https://cdn.jsdelivr.net/gh/micrsSCT/Estilos_y_Scripts/js/archivo.js
    ```
 3. Pega el `<link>` o `<script>` en el editor HTML del artículo de Joomla
 
